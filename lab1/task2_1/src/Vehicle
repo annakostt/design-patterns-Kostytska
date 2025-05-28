@@ -1,0 +1,4 @@
+interface Vehicle {
+    fun runTask(): String
+    fun getType(): String
+}
