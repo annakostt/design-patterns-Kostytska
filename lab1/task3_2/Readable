@@ -1,0 +1,6 @@
+package task3_3;
+
+public interface Readable {
+    void checkout();
+    void returnBook();
+}
